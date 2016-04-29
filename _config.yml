@@ -1,7 +1,7 @@
 name: jsmalo
 favicon: null
-layout_spectrum: 0.23791998741216958
-typography_spectrum: 0.6279613454826176
+layout_spectrum: 0.51587
+typography_spectrum: 0.54941
 title: MULTIMEDIA GRAPHIC DESIGNER
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.18794487579725683
-  lightness: 0.7761275419034064
-  saturation: 0.5502417632378638
-  rhythmicContrast: 0.8952855179086328
+    - '#f2f2fc'
+    - '#c37e57'
+    - '#642307'
+    - '#af496d'
+    - '#e3002f'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
